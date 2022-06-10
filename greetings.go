@@ -6,3 +6,6 @@ func SayGoodMorning() string{
 func SayHello() string{
 	return "Hello"
 }
+func SayGoodNight() string{
+	return "gud nite"
+}
